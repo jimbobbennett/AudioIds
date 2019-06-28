@@ -19,7 +19,6 @@ For example - with this output:
     deviceName = "Logitech Webcam C930e";
     deviceUID = "AppleUSBAudioEngine:Unknown Manufacturer:Logitech Webcam C930e:FBA21F8E:3";
 }
-```Program ended with exit code: 0
 ```
 
 If you wanted to use the **USB Advanced Audio Device** you would set the the audio config to `"AppleUSBAudioEngine:C-Media Electronics Inc.:USB Advanced Audio Device:14431100:2"`.
